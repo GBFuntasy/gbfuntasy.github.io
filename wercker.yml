@@ -26,7 +26,7 @@ build:
             git submodule init
             git submodule update --remote --recursive
     - arjen/hugo-build:
-        version: "0.20.7"
+        version: "HEAD"
         theme: ghostwriter
         flags: --buildDrafts=true
 
