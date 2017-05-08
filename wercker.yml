@@ -44,4 +44,4 @@ deploy:
             gh_oauth: $Git_Token
             gh_pages: true
             basedir: public
-branch: master
+            branch: master
