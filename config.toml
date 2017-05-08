@@ -20,6 +20,7 @@ copyright = "GBFuntasy"
   description = "แกงหม้อนี้ไม่บูด"
   opengraph = true
   github = "https://github.com/gbfuntasy"
+  facebook = "https://facebook.com/gbfuntasy"
 
 [Permalinks]
     post = "/:year/:month/:day/:filename/"
